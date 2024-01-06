@@ -1,0 +1,2 @@
+# .github
+📖 About the organization
