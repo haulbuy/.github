@@ -7,8 +7,8 @@ At HaulBuy, we believe in connecting businesses with the best global products. O
 ## Resources
 Need information? Our resources have got you covered.
 
-- 📚 [Documentation](/path/to/documentation)
-- 🛠️ [API References](/path/to/api/references)
+- 📚 [Documentation](/path/to/documentation) (Coming soon!)
+- 🛠️ [API References](/path/to/api/references) (Coming soon!)
 
 ## Let's Make Sourcing Simpler
 Together, we can revolutionize the way businesses source products. Ready to dive in?
