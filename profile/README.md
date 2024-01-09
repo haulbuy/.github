@@ -7,7 +7,6 @@ At HaulBuy, we believe in connecting businesses with the best global products. O
 ## Resources
 Need information? Our resources have got you covered.
 
-- 💬 [Discussions]("https://github.com/orgs/haulbuy/discussions")
 - 📚 [Documentation](/path/to/documentation)
 - 🛠️ [API References](/path/to/api/references)
 
