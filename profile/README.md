@@ -1,16 +1,7 @@
 # Welcome to HaulBuy 👋
 
-Ship cheaper and faster hauls with HaulBuy.
-
 ![Preview](https://github.com/haulbuy/.github/blob/main/profile/preview.png)
 
-## 
+## About Us 📖
 
-## Who We Are
-At HaulBuy, we believe in connecting businesses with the best global products. Our team is dedicated to making international sourcing accessible, easy, and reliable. 🤝
-
-
-## Let's Make Sourcing Simpler
-Together, we can revolutionize the way businesses source products. Ready to dive in?
-
-🚀 [Start Exploring](https://haulbuy.com)
+HaulBuy is a modern take on shipping agents that elevates customer experience to a new level.
