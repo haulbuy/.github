@@ -2,7 +2,7 @@
 
 Ship cheaper and faster hauls with HaulBuy.
 
-![Preview](/preview.png)
+![Preview](https://github.com/haulbuy/.github/blob/main/profile/preview.png)
 
 ## 
 
