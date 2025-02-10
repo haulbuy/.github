@@ -2,7 +2,7 @@
 
 Ship cheaper and faster hauls with HaulBuy.
 
-
+![Preview](/preview.png)
 
 ## 
 
